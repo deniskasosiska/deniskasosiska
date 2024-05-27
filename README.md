@@ -1,5 +1,5 @@
 <h2 align="center"><a href="#">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World,&fontSize=75&animation=fadeIn&fontAlignY=38&desc=and%20to%20everyone%20who%20visited%20my%20profile!&descAlignY=51&descAlign=62" alt="Hello World, and to everyone who visited my profile!"/></a></h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World,&fontSize=75&animation=fadeIn&fontAlignY=38&desc=and%20to%20everyone%20who%20visited%20my%20profile!&descAlignY=55&descAlign=62" alt="Hello World, and to everyone who visited my profile!"/></a></h2>
 
 <h1 align="center">
 <a href="#"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" alt="hi" height="32"/></a>
