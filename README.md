@@ -29,7 +29,9 @@ LeetCode
 
 ---
 
-<h2 align="center">My stack:</h2>
+<h2 align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=My%20stack:&fontAlign=49&reversal=false&section=header&fontColor=ffffff&fontSize=50&fontAlignY=55" height="128"/>
+</h2>
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
