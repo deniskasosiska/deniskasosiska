@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World,&fontSize=75&animation=fadeIn&fontAlignY=38&desc=and%20to%20everyone%20who%20visited%20my%20profile!&descAlignY=51&descAlign=62)
+<h2 align="center"><a href="#">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World,&fontSize=75&animation=fadeIn&fontAlignY=38&desc=and%20to%20everyone%20who%20visited%20my%20profile!&descAlignY=51&descAlign=62" alt="Hello World, and to everyone who visited my profile!"/></a></h2>
 
 <h1 align="center">My name is Denis,  
 <a href="#"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></a></h1>
@@ -49,6 +50,10 @@ LeetCode
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 <h3 align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deniskasosiska&layout=compact" alt="Most used language"/></a></h3>
+
+---
+
+<h3 align="center"><a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1800&color=FFD500&center=true&vCenter=true&random=false&width=800&lines=If+you+liked+one+of+my+repositories%2C+put+a+star+%E2%AD%90;%E2%9D%A4+Thank+you+for+your+time!+%E2%9D%A4" alt="Thank you for your time!"/></a></h3>
 
 <!-- 
 https://github.com/deniskasosiska/deniskasosiska/assets/44068354/259355b5-4137-47bf-81fb-60f428a769e3 
