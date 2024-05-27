@@ -8,8 +8,7 @@ My name is Denis
 <h3 align="center">💻 I am a beginner backend developer 💻
 </h3>
 
----
-
+<h5 align="center"><a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient"/></a></h5>
 
 <h2 align="center">My accounts on other platforms:</h2>
 
@@ -27,11 +26,11 @@ LeetCode
 <br/><a href="https://leetcode.com/u/DeniskaSosiSka/">
 <img src="https://leetcode-stats-six.vercel.app/?username=DeniskaSosiSka&theme=dark" alt="Denis on LeetCode"/></a></h3>
 
----
+<h5 align="center"><a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient"/></a></h5>
 
-<h2 align="center">
+<h2 align="center"><a href="#">
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=My%20stack:&fontAlign=49&reversal=false&section=header&fontColor=ffffff&fontSize=50&fontAlignY=55&strokeWidth=1&stroke=aaaaaa" height="118"/>
-</h2>
+</a></h2>
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -54,7 +53,7 @@ LeetCode
 
 <h3 align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deniskasosiska&layout=compact" alt="Most used language"/></a></h3>
 
----
+<h5 align="center"><a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient"/></a></h5>
 
 <h3 align="center"><a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1800&color=FF6666&center=true&vCenter=true&random=false&width=800&lines=If+you+liked+one+of+my+repositories%2C+put+a+star+%E2%AD%90;%E2%9D%A4+Thank+you+for+your+time!+%E2%9D%A4" alt="Thank you for your time!"/></a></h3>
 
