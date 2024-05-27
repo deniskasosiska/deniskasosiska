@@ -54,7 +54,7 @@ LeetCode
 
 ---
 
-<h3 align="center"><a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1800&color=FFD500&center=true&vCenter=true&random=false&width=800&lines=If+you+liked+one+of+my+repositories%2C+put+a+star+%E2%AD%90;%E2%9D%A4+Thank+you+for+your+time!+%E2%9D%A4" alt="Thank you for your time!"/></a></h3>
+<h3 align="center"><a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1800&color=FF6666&center=true&vCenter=true&random=false&width=800&lines=If+you+liked+one+of+my+repositories%2C+put+a+star+%E2%AD%90;%E2%9D%A4+Thank+you+for+your+time!+%E2%9D%A4" alt="Thank you for your time!"/></a></h3>
 
 <!-- 
 https://github.com/deniskasosiska/deniskasosiska/assets/44068354/259355b5-4137-47bf-81fb-60f428a769e3 
