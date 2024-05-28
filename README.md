@@ -17,7 +17,7 @@ My name is Denis
 Stack Overflow Ru 
 <a href="#"><img src="https://github.com/deniskasosiska/deniskasosiska/assets/44068354/c6a3debc-ccf3-4443-afba-910ac7735a53" height="24"/></a>
 <br/><a href="https://ru.stackoverflow.com/users/592447/deniska-sosiska/">
-<img src="https://for-ru-stackoverflow.vercel.app/?userID=592447&region=ru&theme=dark" alt="Denis on Stack Overflow ru"/></a></h3>
+<img src="https://github-readme-stackoverflow.zohan.tech/?userID=592447&theme=dark&site=ru.stackoverflow" alt="Denis on Stack Overflow ru"/></a></h3>
 
 <h3 align="center">
 <a href="#"><img src="https://github.com/deniskasosiska/deniskasosiska/assets/44068354/afcf3c3c-3e65-4f72-af6c-27f7745d1038" height="24"/></a>
