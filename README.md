@@ -24,7 +24,7 @@ Stack Overflow Ru
 LeetCode
 <a href="#"><img src="https://github.com/deniskasosiska/deniskasosiska/assets/44068354/afcf3c3c-3e65-4f72-af6c-27f7745d1038" height="24"/></a>  
 <br/><a href="https://leetcode.com/u/DeniskaSosiSka/">
-<img src="https://leetcard.jacoblin.cool/DeniskaSosiSka?theme=nord" alt="Denis on LeetCode"/></a></h3>
+<img src="https://leetcard.jacoblin.cool/DeniskaSosiSka?theme=dark" alt="Denis on LeetCode"/></a></h3>
 
 <h5 align="center"><a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient"/></a></h5>
 
