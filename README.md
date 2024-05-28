@@ -54,7 +54,7 @@
         </td>
         <td>
           <a href="https://leetcode.com/u/DeniskaSosiSka/">
-            <img src="https://leetcard.jacoblin.cool/DeniskaSosiSka?theme=dark&ext=heatmap" width="350" alt="Denis on LeetCode"/>
+            <img src="https://leetcard.jacoblin.cool/DeniskaSosiSka?theme=nord&ext=heatmap" width="350" alt="Denis on LeetCode"/>
           </a>
         </td>
       </tr>
