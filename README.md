@@ -1,36 +1,78 @@
-<h2 align="center"><a href="#">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&fontColor=ffffff&text=Hello%20World,&fontSize=75&animation=fadeIn&fontAlignY=38&desc=and%20to%20everyone%20who%20visited%20my%20profile!&descAlignY=55&descAlign=62" alt="Hello World, and to everyone who visited my profile!"/></a></h2>
-
+<h2 align="center">
+  <a href="#">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&fontColor=ffffff&text=Hello%20World,&fontSize=75&animation=fadeIn&fontAlignY=38&desc=and%20to%20everyone%20who%20visited%20my%20profile!&descAlignY=55&descAlign=62" alt="Hello World, and to everyone who visited my profile!"/>
+  </a>
+</h2>
 <h1 align="center">
-<a href="#"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" alt="hi" height="32"/></a>
-My name is Denis  
-<a href="#"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" alt="hi" height="32"/></a></h1>
-<h3 align="center">💻 I am a beginner backend developer 💻
-</h3>
+  <a href="#">
+    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" alt="hi" height="32"/>
+  </a>
+  My name is Denis  
+  <a href="#">
+    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" alt="hi" height="32"/>
+  </a>
+</h1>
+<h3 align="center">💻 I am a beginner backend developer 💻</h3>
 
-<h5 align="center"><a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient"/></a></h5>
+<h5 align="center">
+  <a href="#">
+    <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient"/>
+  </a>
+</h5>
 
 <h2 align="center">My accounts on other platforms:</h2>
-
 <h3 align="center">
-<a href="#"><img src="https://github.com/deniskasosiska/deniskasosiska/assets/44068354/c6a3debc-ccf3-4443-afba-910ac7735a53" height="24"/></a>
-Stack Overflow Ru 
-<a href="#"><img src="https://github.com/deniskasosiska/deniskasosiska/assets/44068354/c6a3debc-ccf3-4443-afba-910ac7735a53" height="24"/></a>
-<br/><a href="https://ru.stackoverflow.com/users/592447/deniska-sosiska/">
-<img src="https://github-readme-stackoverflow.zohan.tech/?userID=592447&theme=dark&site=ru.stackoverflow" alt="Denis on Stack Overflow ru"/></a></h3>
+  <table>
+    <thead>
+      <tr>
+        <th scope="col">
+          <a href="#">
+            <img src="https://github.com/deniskasosiska/deniskasosiska/assets/44068354/c6a3debc-ccf3-4443-afba-910ac7735a53" height="24"/>
+          </a>
+          Stack Overflow Ru 
+          <a href="#">
+            <img src="https://github.com/deniskasosiska/deniskasosiska/assets/44068354/c6a3debc-ccf3-4443-afba-910ac7735a53" height="24"/>
+          </a>
+        </th>
+        <th scope="col">
+          <a href="#">
+            <img src="https://github.com/deniskasosiska/deniskasosiska/assets/44068354/afcf3c3c-3e65-4f72-af6c-27f7745d1038" height="24"/>
+          </a>
+          LeetCode
+          <a href="#">
+            <img src="https://github.com/deniskasosiska/deniskasosiska/assets/44068354/afcf3c3c-3e65-4f72-af6c-27f7745d1038" height="24"/>
+          </a>  
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <a href="https://ru.stackoverflow.com/users/592447/deniska-sosiska/">
+            <img src="https://github-readme-stackoverflow.zohan.tech/?userID=592447&theme=dark&site=ru.stackoverflow" height="234" alt="Denis on Stack Overflow ru"/>
+          </a>
+        </td>
+        <td>
+          <a href="https://leetcode.com/u/DeniskaSosiSka/">
+            <img src="https://leetcard.jacoblin.cool/DeniskaSosiSka?theme=dark" width="350" alt="Denis on LeetCode"/>
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</h3>
 
-<h3 align="center">
-<a href="#"><img src="https://github.com/deniskasosiska/deniskasosiska/assets/44068354/afcf3c3c-3e65-4f72-af6c-27f7745d1038" height="24"/></a>
-LeetCode
-<a href="#"><img src="https://github.com/deniskasosiska/deniskasosiska/assets/44068354/afcf3c3c-3e65-4f72-af6c-27f7745d1038" height="24"/></a>  
-<br/><a href="https://leetcode.com/u/DeniskaSosiSka/">
-<img src="https://leetcard.jacoblin.cool/DeniskaSosiSka?theme=dark" alt="Denis on LeetCode"/></a></h3>
+<h5 align="center">
+  <a href="#">
+    <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient"/>
+  </a>
+</h5>
 
-<h5 align="center"><a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient"/></a></h5>
-
-<h2 align="center"><a href="#">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=My%20stack:&fontAlign=49&reversal=false&section=header&fontColor=ffffff&fontSize=50&fontAlignY=55&strokeWidth=1&stroke=aaaaaa" height="118"/>
-</a></h2>
+<h2 align="center">
+  <a href="#">
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=My%20stack:&fontAlign=49&reversal=false&section=header&fontColor=ffffff&fontSize=50&fontAlignY=55&strokeWidth=1&stroke=aaaaaa" height="118"/>
+  </a>
+</h2>
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -51,11 +93,23 @@ LeetCode
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-<h3 align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deniskasosiska&layout=compact" alt="Most used language"/></a></h3>
+<h3 align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deniskasosiska&layout=compact" alt="Most used language"/>
+  </a>
+</h3>
 
-<h5 align="center"><a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient"/></a></h5>
+<h5 align="center">
+  <a href="#">
+    <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient"/>
+  </a>
+</h5>
 
-<h3 align="center"><a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1800&color=FF6666&center=true&vCenter=true&random=false&width=800&lines=If+you+liked+one+of+my+repositories%2C+put+a+star+%E2%AD%90;%E2%9D%A4+Thank+you+for+your+time!+%E2%9D%A4" alt="Thank you for your time!"/></a></h3>
+<h3 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1800&color=FF6666&center=true&vCenter=true&random=false&width=800&lines=If+you+liked+one+of+my+repositories%2C+put+a+star+%E2%AD%90;%E2%9D%A4+Thank+you+for+your+time!+%E2%9D%A4" alt="Thank you for your time!"/>
+  </a>
+</h3>
 
 <!-- 
 https://github.com/deniskasosiska/deniskasosiska/assets/44068354/259355b5-4137-47bf-81fb-60f428a769e3 
