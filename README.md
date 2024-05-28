@@ -1,5 +1,5 @@
 <h2 align="center"><a href="#">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World,&fontSize=75&animation=fadeIn&fontAlignY=38&desc=and%20to%20everyone%20who%20visited%20my%20profile!&descAlignY=55&descAlign=62" alt="Hello World, and to everyone who visited my profile!"/></a></h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&fontColor=ffffff&text=Hello%20World,&fontSize=75&animation=fadeIn&fontAlignY=38&desc=and%20to%20everyone%20who%20visited%20my%20profile!&descAlignY=55&descAlign=62" alt="Hello World, and to everyone who visited my profile!"/></a></h2>
 
 <h1 align="center">
 <a href="#"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" alt="hi" height="32"/></a>
@@ -24,7 +24,7 @@ Stack Overflow Ru
 LeetCode
 <a href="#"><img src="https://github.com/deniskasosiska/deniskasosiska/assets/44068354/afcf3c3c-3e65-4f72-af6c-27f7745d1038" height="24"/></a>  
 <br/><a href="https://leetcode.com/u/DeniskaSosiSka/">
-<img src="https://leetcode-stats-six.vercel.app/?username=DeniskaSosiSka&theme=dark" alt="Denis on LeetCode"/></a></h3>
+<img src="https://leetcard.jacoblin.cool/DeniskaSosiSka?theme=nord" alt="Denis on LeetCode"/></a></h3>
 
 <h5 align="center"><a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient"/></a></h5>
 
