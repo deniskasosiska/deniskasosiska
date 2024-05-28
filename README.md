@@ -22,7 +22,7 @@
 
 <h2 align="center">My accounts on other platforms:</h2>
 <h3 align="center">
-  <table>
+  <table align="center">
     <thead>
       <tr>
         <th scope="col">
