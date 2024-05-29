@@ -119,7 +119,11 @@
 
 <h3 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1800&color=FF6666&center=true&vCenter=true&random=false&width=800&lines=If+you+liked+one+of+my+repositories%2C+put+a+star+%E2%AD%90;%E2%9D%A4+Thank+you+for+your+time!+%E2%9D%A4" alt="Thank you for your time!"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1800&color=FFDDDD&center=true&vCenter=true&random=false&width=800&lines=If+you+liked+one+of+my+repositories%2C+put+a+star+%E2%AD%90;%E2%9D%A4+Thank+you+for+your+time!+%E2%9D%A4">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1800&color=220000&center=true&vCenter=true&random=false&width=800&lines=If+you+liked+one+of+my+repositories%2C+put+a+star+%E2%AD%90;%E2%9D%A4+Thank+you+for+your+time!+%E2%9D%A4">
+      <img alt="Thank you for your time!" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1800&color=FFDDDD&center=true&vCenter=true&random=false&width=800&lines=If+you+liked+one+of+my+repositories%2C+put+a+star+%E2%AD%90;%E2%9D%A4+Thank+you+for+your+time!+%E2%9D%A4">
+    </picture>
   </a>
 </h3>
 
