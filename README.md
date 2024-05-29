@@ -1,6 +1,6 @@
 <h2 align="center">
   <a href="#">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&fontColor=ffffff&text=Hello%20World,&fontSize=75&animation=fadeIn&fontAlignY=38&desc=and%20to%20everyone%20who%20visited%20my%20profile!&descAlignY=55&descAlign=62" alt="Hello World, and to everyone who visited my profile!"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=256&section=header&fontColor=ffffff&text=Hello%20World,&fontSize=75&animation=fadeIn&fontAlignY=38&desc=and%20to%20everyone%20who%20visited%20my%20profile!&descAlignY=55&descAlign=62" alt="Hello World, and to everyone who visited my profile!"/>
   </a>
 </h2>
 <h1 align="center">
@@ -16,7 +16,7 @@
 
 <h5 align="center">
   <a href="#">
-    <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient"/>
+    <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=timeGradient"/>
   </a>
 </h5>
 
@@ -72,16 +72,16 @@
 
 <h5 align="center">
   <a href="#">
-    <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient"/>
+    <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=timeGradient"/>
   </a>
 </h5>
 
 <h2 align="center">
   <a href="#">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=My%20stack:&fontAlign=49&reversal=false&section=header&fontColor=ffffff&fontSize=50&fontAlignY=55&strokeWidth=1&stroke=aaaaaa">
-      <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=My%20stack:&fontAlign=49&reversal=false&section=header&fontColor=000000&fontSize=50&fontAlignY=55&strokeWidth=1&stroke=aaaaaa">
-      <img alt="My stack:" height="110" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=My%20stack:&fontAlign=49&reversal=false&section=header&fontColor=ffffff&fontSize=50&fontAlignY=55&strokeWidth=1&stroke=aaaaaa">
+      <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&color=timeGradient&text=My%20stack:&fontAlign=49&reversal=false&section=header&fontColor=ffffff&fontSize=50&fontAlignY=55&strokeWidth=1&stroke=aaaaaa">
+      <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&color=timeGradient&text=My%20stack:&fontAlign=49&reversal=false&section=header&fontColor=000000&fontSize=50&fontAlignY=55&strokeWidth=1&stroke=aaaaaa">
+      <img alt="My stack:" height="110" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=timeGradient&text=My%20stack:&fontAlign=49&reversal=false&section=header&fontColor=ffffff&fontSize=50&fontAlignY=55&strokeWidth=1&stroke=aaaaaa">
     </picture>
   </a>
 </h2>
@@ -113,7 +113,7 @@
 
 <h5 align="center">
   <a href="#">
-    <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient"/>
+    <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=timeGradient"/>
   </a>
 </h5>
 
