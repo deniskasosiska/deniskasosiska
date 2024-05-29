@@ -58,7 +58,11 @@
         </td>
         <td>
           <a href="https://leetcode.com/u/DeniskaSosiSka/">
-            <img src="https://leetcard.jacoblin.cool/DeniskaSosiSka?theme=nord&ext=heatmap" width="350" alt="Denis on LeetCode"/>
+            <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/DeniskaSosiSka?theme=nord&ext=heatmap">
+              <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/DeniskaSosiSka?theme=unicorn&ext=heatmap">
+              <img alt="Denis on LeetCode" width="350" src="https://leetcard.jacoblin.cool/DeniskaSosiSka?theme=nord&ext=heatmap">
+            </picture>
           </a>
         </td>
       </tr>
@@ -74,7 +78,11 @@
 
 <h2 align="center">
   <a href="#">
-    <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=My%20stack:&fontAlign=49&reversal=false&section=header&fontColor=ffffff&fontSize=50&fontAlignY=55&strokeWidth=1&stroke=aaaaaa" height="118"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=My%20stack:&fontAlign=49&reversal=false&section=header&fontColor=ffffff&fontSize=50&fontAlignY=55&strokeWidth=1&stroke=aaaaaa">
+      <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=My%20stack:&fontAlign=49&reversal=false&section=header&fontColor=000000&fontSize=50&fontAlignY=55&strokeWidth=1&stroke=aaaaaa">
+      <img alt="My stack:" height="110" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=My%20stack:&fontAlign=49&reversal=false&section=header&fontColor=ffffff&fontSize=50&fontAlignY=55&strokeWidth=1&stroke=aaaaaa">
+    </picture>
   </a>
 </h2>
 
