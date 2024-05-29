@@ -49,7 +49,11 @@
       <tr>
         <td>
           <a href="https://ru.stackoverflow.com/users/592447/deniska-sosiska/">
-            <img src="https://github-readme-stackoverflow.zohan.tech/?userID=592447&theme=dark&site=ru.stackoverflow" height="234" alt="Denis on Stack Overflow ru"/>
+            <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stackoverflow.zohan.tech/?userID=592447&theme=dark&site=ru.stackoverflow">
+              <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stackoverflow.zohan.tech/?userID=592447&site=ru.stackoverflow">
+              <img alt="Denis on Stack Overflow ru" height="234" src="https://github-readme-stackoverflow.zohan.tech/?userID=592447&theme=dark&site=ru.stackoverflow">
+            </picture>
           </a>
         </td>
         <td>
