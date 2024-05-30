@@ -21,92 +21,75 @@
 </h5>
 
 <h2 align="center">My accounts on other platforms:</h2>
-<h3 align="center">
-  <table align="center">
-    <thead>
-      <tr>
-        <th scope="col">
-          <a href="#">
-            <img src="https://github.com/deniskasosiska/deniskasosiska/assets/44068354/c6a3debc-ccf3-4443-afba-910ac7735a53" height="24"/>
-          </a>
-          Stack Overflow Ru 
-          <a href="#">
-            <img src="https://github.com/deniskasosiska/deniskasosiska/assets/44068354/c6a3debc-ccf3-4443-afba-910ac7735a53" height="24"/>
-          </a>
-        </th>
-        <th scope="col">
-          <a href="#">
-            <img src="https://github.com/deniskasosiska/deniskasosiska/assets/44068354/afcf3c3c-3e65-4f72-af6c-27f7745d1038" height="24"/>
-          </a>
-          LeetCode
-          <a href="#">
-            <img src="https://github.com/deniskasosiska/deniskasosiska/assets/44068354/afcf3c3c-3e65-4f72-af6c-27f7745d1038" height="24"/>
-          </a>  
-        </th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>
-          <a href="https://ru.stackoverflow.com/users/592447/deniska-sosiska/">
-            <picture>
-              <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stackoverflow.zohan.tech/?userID=592447&theme=dark&site=ru.stackoverflow">
-              <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stackoverflow.zohan.tech/?userID=592447&site=ru.stackoverflow">
-              <img alt="Denis on Stack Overflow ru" height="234" src="https://github-readme-stackoverflow.zohan.tech/?userID=592447&theme=dark&site=ru.stackoverflow">
-            </picture>
-          </a>
-        </td>
-        <td>
-          <a href="https://leetcode.com/u/DeniskaSosiSka/">
-            <picture>
-              <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/DeniskaSosiSka?theme=nord&ext=heatmap">
-              <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/DeniskaSosiSka?theme=unicorn&ext=heatmap">
-              <img alt="Denis on LeetCode" width="350" src="https://leetcard.jacoblin.cool/DeniskaSosiSka?theme=nord&ext=heatmap">
-            </picture>
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <th scope="col" colspan="2">
-          <a href="#">
-            <img src="https://github.com/deniskasosiska/deniskasosiska/assets/44068354/2611ec99-2c26-4f3e-aeeb-837e6b53bce7" height="24"/>
-          </a>
-          Roadmap.sh
-          <a href="#">
-            <img src="https://github.com/deniskasosiska/deniskasosiska/assets/44068354/2611ec99-2c26-4f3e-aeeb-837e6b53bce7" height="24"/>
-          </a>  
-        </th>
-      </tr>
-      <tr>
-        <td colspan="2">
-          <a href="https://roadmap.sh/u/deniskasosiska">
-            <picture>
-              <source media="(prefers-color-scheme: dark)" srcset="https://roadmap.sh/card/wide/66585408b998f3b3c7e77baf?variant=dark">
-              <source media="(prefers-color-scheme: light)" srcset="https://roadmap.sh/card/wide/66585408b998f3b3c7e77baf?variant=light">
-              <img alt="Denis on roadmap.sh" height="180" src="https://roadmap.sh/card/wide/66585408b998f3b3c7e77baf?variant=dark">
-            </picture>
-          </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</h3>
 
-<h5 align="center">
-  <a href="#">
-    <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=timeGradient"/>
-  </a>
-</h5>
 
-<h2 align="center">
-  <a href="#">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&color=timeGradient&text=My%20stack:&fontAlign=49&reversal=false&section=header&fontColor=ffffff&fontSize=50&fontAlignY=55&strokeWidth=1&stroke=aaaaaa">
-      <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&color=timeGradient&text=My%20stack:&fontAlign=49&reversal=false&section=header&fontColor=000000&fontSize=50&fontAlignY=55&strokeWidth=1&stroke=aaaaaa">
-      <img alt="My stack:" height="110" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=timeGradient&text=My%20stack:&fontAlign=49&reversal=false&section=header&fontColor=ffffff&fontSize=50&fontAlignY=55&strokeWidth=1&stroke=aaaaaa">
-    </picture>
-  </a>
-</h2>
+  <div align="center">
+    <a href="#">
+      <img src="https://github.com/deniskasosiska/deniskasosiska/assets/44068354/c6a3debc-ccf3-4443-afba-910ac7735a53" height="24"/>
+    </a>
+    Stack Overflow Ru 
+    <a href="#">
+      <img src="https://github.com/deniskasosiska/deniskasosiska/assets/44068354/c6a3debc-ccf3-4443-afba-910ac7735a53" height="24"/>
+    </a>
+    <br/>
+    <a href="https://ru.stackoverflow.com/users/592447/deniska-sosiska/">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stackoverflow.zohan.tech/?userID=592447&theme=dark&site=ru.stackoverflow">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stackoverflow.zohan.tech/?userID=592447&site=ru.stackoverflow">
+        <img alt="Denis on Stack Overflow ru" height="234" src="https://github-readme-stackoverflow.zohan.tech/?userID=592447&theme=dark&site=ru.stackoverflow">
+      </picture>
+    </a>
+  </div>
+<div align="center">
+    <a href="#">
+      <img src="https://github.com/deniskasosiska/deniskasosiska/assets/44068354/afcf3c3c-3e65-4f72-af6c-27f7745d1038" height="24"/>
+    </a>
+    LeetCode
+    <a href="#">
+      <img src="https://github.com/deniskasosiska/deniskasosiska/assets/44068354/afcf3c3c-3e65-4f72-af6c-27f7745d1038" height="24"/>
+    </a>
+    <br/>
+    <a href="https://leetcode.com/u/DeniskaSosiSka/">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/DeniskaSosiSka?theme=nord&ext=heatmap">
+        <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/DeniskaSosiSka?theme=unicorn&ext=heatmap">
+        <img alt="Denis on LeetCode" width="350" src="https://leetcard.jacoblin.cool/DeniskaSosiSka?theme=nord&ext=heatmap">
+      </picture>
+    </a>
+  </div>
+  <div align="center">
+    <a href="#">
+      <img src="https://github.com/deniskasosiska/deniskasosiska/assets/44068354/2611ec99-2c26-4f3e-aeeb-837e6b53bce7" height="24"/>
+    </a>
+    Roadmap.sh
+    <a href="#">
+      <img src="https://github.com/deniskasosiska/deniskasosiska/assets/44068354/2611ec99-2c26-4f3e-aeeb-837e6b53bce7" height="24"/>
+    </a>
+    <br/>
+    <a href="https://roadmap.sh/u/deniskasosiska">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://roadmap.sh/card/wide/66585408b998f3b3c7e77baf?variant=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://roadmap.sh/card/wide/66585408b998f3b3c7e77baf?variant=light">
+        <img alt="Denis on roadmap.sh" height="180" src="https://roadmap.sh/card/wide/66585408b998f3b3c7e77baf?variant=dark">
+      </picture>
+    </a>
+  </div>
+
+  <h5 align="center">
+    <a href="#">
+      <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=timeGradient"/>
+    </a>
+  </h5>
+  
+  <h2 align="center">
+    <a href="#">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&color=timeGradient&text=My%20stack:&fontAlign=49&reversal=false&section=header&fontColor=ffffff&fontSize=50&fontAlignY=55&strokeWidth=1&stroke=aaaaaa">
+        <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&color=timeGradient&text=My%20stack:&fontAlign=49&reversal=false&section=header&fontColor=000000&fontSize=50&fontAlignY=55&strokeWidth=1&stroke=aaaaaa">
+        <img alt="My stack:" height="110" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=timeGradient&text=My%20stack:&fontAlign=49&reversal=false&section=header&fontColor=ffffff&fontSize=50&fontAlignY=55&strokeWidth=1&stroke=aaaaaa">
+      </picture>
+    </a>
+  </h2>
 
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](#)
 [![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](#)
