@@ -66,6 +66,28 @@
           </a>
         </td>
       </tr>
+      <tr>
+        <th scope="col" colspan="2">
+          <a href="#">
+            <img src="https://github.com/deniskasosiska/deniskasosiska/assets/44068354/2611ec99-2c26-4f3e-aeeb-837e6b53bce7" height="24"/>
+          </a>
+          Roadmap.sh
+          <a href="#">
+            <img src="https://github.com/deniskasosiska/deniskasosiska/assets/44068354/2611ec99-2c26-4f3e-aeeb-837e6b53bce7" height="24"/>
+          </a>  
+        </th>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <a href="https://roadmap.sh/u/deniskasosiska">
+            <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://roadmap.sh/card/wide/66585408b998f3b3c7e77baf?variant=dark">
+              <source media="(prefers-color-scheme: light)" srcset="https://roadmap.sh/card/wide/66585408b998f3b3c7e77baf?variant=light">
+              <img alt="Denis on roadmap.sh" height="180" src="https://roadmap.sh/card/wide/66585408b998f3b3c7e77baf?variant=dark">
+            </picture>
+          </a>
+        </td>
+      </tr>
     </tbody>
   </table>
 </h3>
