@@ -79,9 +79,9 @@
       <td colspan="2">
         <a href="https://roadmap.sh/u/deniskasosiska">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://roadmap.sh/card/wide/66585408b998f3b3c7e77baf?variant=dark">
-            <source media="(prefers-color-scheme: light)" srcset="https://roadmap.sh/card/wide/66585408b998f3b3c7e77baf?variant=light">
-            <img alt="Denis on roadmap.sh" height="180" src="https://roadmap.sh/card/wide/66585408b998f3b3c7e77baf?variant=dark">
+            <source media="(prefers-color-scheme: dark)" srcset="https://roadmap.sh/card/wide/66585408b998f3b3c7e77baf?variant=dark&roadmaps=backend%2Caspnet-core%2Csoftware-design-architecture%2Cdocker">
+            <source media="(prefers-color-scheme: light)" srcset="https://roadmap.sh/card/wide/66585408b998f3b3c7e77baf?variant=light&roadmaps=backend%2Caspnet-core%2Csoftware-design-architecture%2Cdocker">
+            <img alt="Denis on roadmap.sh" height="180" src="https://roadmap.sh/card/wide/66585408b998f3b3c7e77baf?variant=dark&roadmaps=backend%2Caspnet-core%2Csoftware-design-architecture%2Cdocker">
           </picture>
         </a>
       </td>
